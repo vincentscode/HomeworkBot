@@ -14,7 +14,7 @@ def send(filename, overlay=False, api_key='acf7c56e6088957', language='ger'):
     return r.json()
 
 
-res = send(filename="C:\\Users\\vince\\Desktop\\iwas.jpg", language='ger', overlay=True)
+res = send(filename="C:\\Users\\vince\\Desktop\\15.jpg", language='ger', overlay=True)
 print("Response:", res)
 if res["ParsedResults"][0]["FileParseExitCode"] == 1:
     print(res["ParsedResults"][0]["ParsedText"])

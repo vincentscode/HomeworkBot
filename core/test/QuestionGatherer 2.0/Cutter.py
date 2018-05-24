@@ -1,9 +1,9 @@
 import os
 import cv2
 
-path = "C:\\Users\\vince\\Desktop\\book7\\"
+path = "C:\\Users\\vince\\Desktop\\book8\\"
 file_template = path + "{}.jpg"
-out_template = "C:\\Users\\vince\\Desktop\\book7_c\\{}.jpg"
+out_template = "C:\\Users\\vince\\Desktop\\book8_c\\{}.jpg"
 file_count = len(os.listdir(path))
 
 adder = 0

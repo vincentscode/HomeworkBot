@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72dc7e05-2012-4613-bda9-f6f80fa12fac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test/QuestionGatherer 1.0/ImageSplitter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/QuestionGatherer 2.0/Cutter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/QuestionGatherer 2.0/OCR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/QuestionGatherer 2.0/QuestionExtractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/QuestionGatherer 2.0/Screenshotter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/QuestionGatherer/ImageCutter.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/QuestionGatherer 1.0/ImageCutter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/QuestionGatherer/ImageSplitter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/QuestionGatherer/OCR.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/QuestionGatherer 1.0/OCR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/QuestionGatherer/Screenshotter.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/QuestionGatherer 1.0/Screenshotter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Writer/DataExtractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Writer/DataExtractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/QuestionGatherer 1.0/OCR.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/QuestionGatherer 1.0/OCR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/QuestionGatherer 2.0/Cutter.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/QuestionGatherer 2.0/Cutter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/QuestionGatherer 2.0/QuestionExtractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/QuestionGatherer 2.0/QuestionExtractor.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,15 +19,15 @@
     <SUITE FILE_PATH="coverage/core$ImageSplitter.coverage" NAME="ImageSplitter Coverage Results" MODIFIED="1525443822146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer" />
     <SUITE FILE_PATH="coverage/core$Main.coverage" NAME="Main Coverage Results" MODIFIED="1524598567767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core$DataExtractor.coverage" NAME="DataExtractor Coverage Results" MODIFIED="1525454618744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/Writer" />
-    <SUITE FILE_PATH="coverage/core$QuestionExtractor.coverage" NAME="QuestionExtractor Coverage Results" MODIFIED="1525959575941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
+    <SUITE FILE_PATH="coverage/core$QuestionExtractor.coverage" NAME="QuestionExtractor Coverage Results" MODIFIED="1527176626928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
     <SUITE FILE_PATH="coverage/core$ImageCutter.coverage" NAME="ImageCutter Coverage Results" MODIFIED="1525370128279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer" />
-    <SUITE FILE_PATH="coverage/core$OCR__1_.coverage" NAME="OCR (1) Coverage Results" MODIFIED="1525893890293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 1.0" />
+    <SUITE FILE_PATH="coverage/core$OCR__1_.coverage" NAME="OCR (1) Coverage Results" MODIFIED="1527176725554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 1.0" />
     <SUITE FILE_PATH="coverage/core$OCR.coverage" NAME="OCR Coverage Results" MODIFIED="1525956593161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
     <SUITE FILE_PATH="coverage/core$QuestionGenerator.coverage" NAME="QuestionGenerator Coverage Results" MODIFIED="1524688719305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/core$ImageWriter.coverage" NAME="ImageWriter Coverage Results" MODIFIED="1524832579813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/Writer" />
-    <SUITE FILE_PATH="coverage/core$Screenshotter__1_.coverage" NAME="Screenshotter (1) Coverage Results" MODIFIED="1525963847592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
+    <SUITE FILE_PATH="coverage/core$Screenshotter__1_.coverage" NAME="Screenshotter (1) Coverage Results" MODIFIED="1526144257391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
     <SUITE FILE_PATH="coverage/core$server.coverage" NAME="server Coverage Results" MODIFIED="1524841646405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/AndroidReceiver" />
-    <SUITE FILE_PATH="coverage/core$Cutter.coverage" NAME="Cutter Coverage Results" MODIFIED="1525963751501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
+    <SUITE FILE_PATH="coverage/core$Cutter.coverage" NAME="Cutter Coverage Results" MODIFIED="1525979138142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
     <SUITE FILE_PATH="coverage/core$readExcel.coverage" NAME="readExcel Coverage Results" MODIFIED="1524834127893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionLoader" />
     <SUITE FILE_PATH="coverage/core$Screenshotter.coverage" NAME="Screenshotter Coverage Results" MODIFIED="1525366745671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer" />
     <SUITE FILE_PATH="coverage/core$test.coverage" NAME="test Coverage Results" MODIFIED="1524684166837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
@@ -57,35 +51,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QuestionExtractor.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/QuestionExtractor.py">
+      <file leaf-file-name="OCR.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 1.0/OCR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Screenshotter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/Screenshotter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="83" column="35" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OCR.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/OCR.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="221">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -106,6 +76,9 @@
       <find>cv2.TM_CCOEFF_NORMED</find>
       <find>r,</find>
       <find>r()</find>
+      <find>def</find>
+      <find>y</find>
+      <find>if</find>
     </findStrings>
     <replaceStrings>
       <replace>dir</replace>
@@ -148,11 +121,11 @@
         <option value="$PROJECT_DIR$/test/QuestionGatherer/OCR.py" />
         <option value="$PROJECT_DIR$/test/QuestionGatherer/ImageSplitter.py" />
         <option value="$PROJECT_DIR$/test/Writer/DataExtractor.py" />
-        <option value="$PROJECT_DIR$/test/QuestionGatherer 1.0/OCR.py" />
         <option value="$PROJECT_DIR$/test/QuestionGatherer 2.0/OCR.py" />
-        <option value="$PROJECT_DIR$/test/QuestionGatherer 2.0/QuestionExtractor.py" />
         <option value="$PROJECT_DIR$/test/QuestionGatherer 2.0/Cutter.py" />
         <option value="$PROJECT_DIR$/test/QuestionGatherer 2.0/Screenshotter.py" />
+        <option value="$PROJECT_DIR$/test/QuestionGatherer 2.0/QuestionExtractor.py" />
+        <option value="$PROJECT_DIR$/test/QuestionGatherer 1.0/OCR.py" />
       </list>
     </option>
   </component>
@@ -166,10 +139,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="22" />
+    <option name="x" value="-1267" />
+    <option name="y" value="297" />
     <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="height" value="1034" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -198,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,6 +188,12 @@
               <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="AndroidReceiver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="QuestionGatherer 1.0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="core" type="b2602c69:ProjectViewProjectNode" />
@@ -239,6 +217,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Screenshotter (1)">
+  <component name="RunManager" selected="Python.OCR (1)">
     <configuration name="Cutter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="core" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -373,11 +352,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.OCR (1)" />
+        <item itemvalue="Python.QuestionExtractor" />
         <item itemvalue="Python.Screenshotter (1)" />
         <item itemvalue="Python.Cutter" />
-        <item itemvalue="Python.QuestionExtractor" />
         <item itemvalue="Python.OCR" />
-        <item itemvalue="Python.OCR (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -399,22 +378,29 @@
       <option name="project" value="LOCAL" />
       <updated>1524833202527</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated Question-Gatherer">
+      <created>1525966284379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525966284379</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <frame x="-1928" y="22" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Key Promoter X" order="3" weight="0.32995737" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.32948583" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32903227" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286638" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3286638" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.33728448" />
+      <window_info anchor="bottom" x="-1418" y="460" width="1197" height="565" id="Run" order="2" sideWeight="0.49791667" type="WINDOWED" weight="0.33728448" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32903227" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49569893" visible="true" weight="0.3379531" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49569893" visible="true" weight="0.37686568" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" sideWeight="0.49919742" weight="0.32995737" />
       <window_info anchor="right" id="SciView" order="4" sideWeight="0.49919742" weight="0.32995737" />
@@ -466,11 +452,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Updated Question-Gatherer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Question-Gatherer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -650,13 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 1.0/OCR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/AndroidReceiver/server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -720,30 +700,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/Cutter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/Screenshotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/QuestionExtractor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="663">
+          <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/Cutter.py">
+    <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 1.0/OCR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/Screenshotter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="83" column="35" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
