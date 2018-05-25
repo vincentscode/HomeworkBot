@@ -8,10 +8,10 @@ import os
 # keys = 4beb31282988957, acf7c56e6088957
 requests_ctr = 0
 
-for ctr in range(134, len(os.listdir("C:/Users/vince/Desktop/book5_c/"))):
+for ctr in range(1, len(os.listdir("C:/Users/vince/Desktop/book6_c/"))+1):
     # Settings
     method = cv2.TM_CCOEFF_NORMED
-    f_name = 'C:\\Users\\vince\\Desktop\\book5_c\\{}.jpg'.format(ctr)
+    f_name = 'C:\\Users\\vince\\Desktop\\book6_c\\{}.jpg'.format(ctr)
     print(f_name)
     shorten_output = True
 
@@ -135,7 +135,7 @@ for ctr in range(134, len(os.listdir("C:/Users/vince/Desktop/book5_c/"))):
             res = send_ocr(filename=ff, language='ger', overlay=False, pdf=False)
             if res and res["ParsedResults"] and res["ParsedResults"][0]:
                 final_string += res["ParsedResults"][0]["ParsedText"] + "\n\n\n\n"
-        file = open("C:\\Users\\vince\\Desktop\\book5_t\\{}.txt".format(ctr), "w")
+        file = open("C:\\Users\\vince\\Desktop\\book6_t\\{}.txt".format(ctr), "w")
         file.write(final_string)
         file.close()
     except Exception:

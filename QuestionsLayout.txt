@@ -1,4 +1,0 @@
-Frage = Originalfrage (z.B. Entscheide, ob das angegebenen Wertepaar eine Lösung des linearen Gleichungssystems ist. x + y = 6   2x - 4y = 10 (3 | 3); (10 | 2)
-Aufgabe = Zu stellende Frage (z.B. is (2|13) a solution to y = x + 3?)
-Rechnung/Task = Aufgabe (z.B. ? (2|13) = solution(f))
-Antwort = Antwort (z.B. "Nein")
