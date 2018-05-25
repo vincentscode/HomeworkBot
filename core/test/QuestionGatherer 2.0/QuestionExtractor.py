@@ -119,6 +119,6 @@ for t in range(len(tasks)):
     ff = 'C:\\Users\\vince\\Desktop\\tasks\\Task {}.jpg'.format(t)
     print(ff)
     res = send_ocr(filename=ff, language='ger', overlay=False, pdf=False)
-    print(t, ":", str(res))
+    print(res["ParsedResults"][0]["ParsedText"])
 
 cv2.imwrite('C:\\Users\\vince\\Desktop\\res.png', img_rgb)
