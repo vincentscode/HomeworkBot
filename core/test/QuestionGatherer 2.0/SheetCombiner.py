@@ -9,8 +9,8 @@ task_ctr = []
 all_tasks = []
 
 full_str = ""
-for ctr in range(1, len(os.listdir("C:/Users/vince/Desktop/book5_t/"))+1):
-    f_name = 'C:\\Users\\vince\\Desktop\\book5_t\\{}.txt'.format(ctr)
+for ctr in range(1, len(os.listdir("C:/Users/vince/Desktop/book6_t/"))+1):
+    f_name = 'C:\\Users\\vince\\Desktop\\book6_t\\{}.txt'.format(ctr)
     print(f_name)
     f = open(f_name, "r")
     m_str = f.read()
@@ -37,7 +37,7 @@ for i in range(1, len(n_tasks)):
     ws[c_a] = str(i)
     ws[c_b] = n_tasks[i]
 
-wb.save("C:/Users/vince/Desktop/output5.xlsx")
+wb.save("C:/Users/vince/Desktop/output6.xlsx")
 
 print("Avg tasks per page:", np.mean(task_ctr))
 print("Task_count:", len(n_tasks))

@@ -8,7 +8,7 @@ import os
 # keys = 4beb31282988957, acf7c56e6088957
 requests_ctr = 0
 
-for ctr in range(1, len(os.listdir("C:/Users/vince/Desktop/book6_c/"))+1):
+for ctr in range(134, len(os.listdir("C:/Users/vince/Desktop/book6_c/"))+1):
     # Settings
     method = cv2.TM_CCOEFF_NORMED
     f_name = 'C:\\Users\\vince\\Desktop\\book6_c\\{}.jpg'.format(ctr)

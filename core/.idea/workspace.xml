@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="72dc7e05-2012-4613-bda9-f6f80fa12fac" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/QuestionGatherer 2.0/Final.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/QuestionGatherer 2.0/Final.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/QuestionGatherer 2.0/SheetCombiner.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/QuestionGatherer 2.0/SheetCombiner.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,13 +14,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/core$Final.coverage" NAME="Final Coverage Results" MODIFIED="1527367767742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
+    <SUITE FILE_PATH="coverage/core$Final.coverage" NAME="Final Coverage Results" MODIFIED="1527368572522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
     <SUITE FILE_PATH="coverage/core$ImageSplitter.coverage" NAME="ImageSplitter Coverage Results" MODIFIED="1525443822146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer" />
     <SUITE FILE_PATH="coverage/core$Main.coverage" NAME="Main Coverage Results" MODIFIED="1524598567767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core$DataExtractor.coverage" NAME="DataExtractor Coverage Results" MODIFIED="1525454618744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/Writer" />
     <SUITE FILE_PATH="coverage/core$QuestionExtractor.coverage" NAME="QuestionExtractor Coverage Results" MODIFIED="1527177352653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
     <SUITE FILE_PATH="coverage/core$ImageCutter.coverage" NAME="ImageCutter Coverage Results" MODIFIED="1525370128279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer" />
-    <SUITE FILE_PATH="coverage/core$SheetCombiner.coverage" NAME="SheetCombiner Coverage Results" MODIFIED="1527367316408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
+    <SUITE FILE_PATH="coverage/core$SheetCombiner.coverage" NAME="SheetCombiner Coverage Results" MODIFIED="1527374149983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
     <SUITE FILE_PATH="coverage/core$OCR__1_.coverage" NAME="OCR (1) Coverage Results" MODIFIED="1527177239825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 1.0" />
     <SUITE FILE_PATH="coverage/core$OCR.coverage" NAME="OCR Coverage Results" MODIFIED="1525956593161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
     <SUITE FILE_PATH="coverage/core$Info.coverage" NAME="Info Coverage Results" MODIFIED="1527269750122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/QuestionGatherer 2.0" />
@@ -50,7 +51,7 @@
     <favorites_list name="core" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="readExcel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/QuestionLoader/readExcel.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SheetCombiner.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SheetCombiner.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/SheetCombiner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+            <state relative-caret-position="663">
+              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -72,38 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Final.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Final.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/Final.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cell.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/openpyxl/utils/cell.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="128" selection-start-line="128" selection-end-line="128" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="worksheet.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/openpyxl/worksheet/worksheet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="379" selection-start-line="379" selection-end-line="379" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Info.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/Info.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="221">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -303,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Final">
+  <component name="RunManager" selected="Python.SheetCombiner">
     <configuration name="Final" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="core" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -408,8 +382,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Final" />
         <item itemvalue="Python.SheetCombiner" />
+        <item itemvalue="Python.Final" />
         <item itemvalue="Python.Info" />
         <item itemvalue="Python.QuestionExtractor" />
         <item itemvalue="Python.OCR (1)" />
@@ -461,9 +435,9 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.3286638" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3286638" />
-      <window_info active="true" anchor="bottom" x="-1466" y="87" width="1197" height="318" id="Run" order="2" sideWeight="0.49791667" type="WINDOWED" visible="true" weight="0.33728448" />
+      <window_info anchor="bottom" x="454" y="87" width="1197" height="318" id="Run" order="2" sideWeight="0.49791667" type="WINDOWED" weight="0.33728448" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32903227" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49569893" visible="true" weight="0.41098082" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49569893" visible="true" weight="0.41577825" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" sideWeight="0.49919742" weight="0.32995737" />
       <window_info anchor="right" id="SciView" order="4" sideWeight="0.49919742" weight="0.32995737" />
@@ -779,10 +753,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/openpyxl/utils/cell.py">
+    <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/QuestionExtractor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        <state relative-caret-position="311">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -793,27 +767,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/QuestionExtractor.py">
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/openpyxl/utils/cell.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="38" column="61" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/SheetCombiner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="301">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/Final.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="221">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/QuestionGatherer 2.0/SheetCombiner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
