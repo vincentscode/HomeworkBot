@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72dc7e05-2012-4613-bda9-f6f80fa12fac" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../output6 - Kopie.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../output6 - Kopie.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outputbook5 - Kopie.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../outputbook5 - Kopie.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,21 +51,12 @@
     <favorites_list name="core" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Screenshotter.py" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Screenshotter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/QuestionExtractor/Screenshotter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="74" column="23" lean-forward="true" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Extractor.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/QuestionExtractor/Extractor.py">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="846">
-              <caret line="196" lean-forward="true" selection-start-line="156" selection-end-line="196" />
+              <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -177,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,6 +200,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,7 +399,7 @@
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3286638" />
       <window_info anchor="bottom" x="395" y="417" width="1197" height="318" id="Run" order="2" sideWeight="0.49791667" weight="0.33728448" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32903227" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49569893" visible="true" weight="0.22761194" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49569893" visible="true" weight="0.23294243" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" sideWeight="0.49919742" weight="0.32995737" />
       <window_info anchor="right" id="SciView" order="5" sideWeight="0.49919742" weight="0.32995737" />
@@ -480,6 +472,40 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/QuestionExtractor/Screenshotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuestionExtractor/Extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuestionExtractor/Screenshotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="74" column="23" lean-forward="true" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuestionExtractor/Extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="196" lean-forward="true" selection-start-line="156" selection-end-line="196" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Writer/ImageWriter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -577,17 +603,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QuestionExtractor/Screenshotter.py">
+    <entry file="file://$PROJECT_DIR$/QuestionExtractor/Extractor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="74" column="23" lean-forward="true" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+        <state relative-caret-position="272">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QuestionExtractor/Extractor.py">
+    <entry file="uml://Python/#X:/HomeworkBot/core/QuestionExtractor/Extractor.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#X:/HomeworkBot/core/QuestionExtractor/Extractor.py</OriginalElement>
+          <nodes>
+            <node x="" y="">object</node>
+            <node x="" y="">QuestionExtractor.Extractor.Rect</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="100.5" y="54.0" />
+          <SelectedNodes />
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuestionExtractor/Screenshotter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="846">
-          <caret line="196" lean-forward="true" selection-start-line="156" selection-end-line="196" />
+          <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
         </state>
       </provider>
     </entry>
