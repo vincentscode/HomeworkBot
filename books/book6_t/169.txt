@@ -1,0 +1,36 @@
+Stell dir vor, du blickst aus der Vogel- 
+perspektive auf ein Kinderkarussell. Wie 
+bewegen sich die Autos, Mondraketen, 
+Tiere und Boote? Suche dir ein Fahrzeug 
+für dein Karussell, das du mit Vielecken 
+konstruierst. Als Beispiel haben wir ein 
+einfaches Segelboot aus einem Fünfeck 
+(Rumpf) und einem Dreieck (Segel) und 
+eine Rakete dargestellt. 
+c 
+c 
+
+
+
+
+Lege einen Punkt als Drehzentrum fest, 
+den du mit Z benennst. Erstelle einen 
+Schieberegler für deinen Drehwinkel a. 
+• Winkel 
+Ganze Zahl 
+mim) O • 
+Zufällig 
+max: 360• 
+Schrittweite: 30" 
+
+
+
+
+Nun kannst du dein Fahrzeug drehen, indem du den Befehl mit der passenden Schalt- 
+fläche auswählst. Wähle den Rumpf aus, dann Z und gib den Drehwinkel a an. 
+Dasselbe musst du nun auch für das Segel tun. 
+« = 180 
+
+
+
+

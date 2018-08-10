@@ -1,0 +1,31 @@
+Berechne den Quotienten 4808 : 8. Lösung: 
+4808 
+8=601 
+48 geteilt durch 8 ist 6, Rest O 
+O geteilt durch 8 ist O, Rest O 
+8 geteilt durch 8 ist 1 , Rest O 
+Probe 
+. mn•o 
+
+
+
+
+Die 25 Kinder der Klasse 5c haben für eine Klassenfahrt nach Koblenz 650 € gespart. Die 
+Klasse will in Koblenz das Deutsche Eck besuchen und eine Rheinschifffahrt machen. 
+Aus der Klassenkasse sollen die Bahnfahrt nach Koblenz, die Fahrt mit dem Schiff und 
+ein Mittagessen bezahlt werden. Pro Kind kostet alles zusammen 22 € . Reicht das Geld? 
+Lösung: 
+Man kann auf zwei Arten rechnen: 
+Wie viel hat jedes Kind gespart? 
+150 
+150 
+Jedes Kind hat 26 € gespart. 
+Wie viel kostet der Ausflug 
+für alle Kinder? 
+500 
+Der Ausflug kostet für alle 550 €. 
+Der Ausflug kann aus der Klassenkasse bezahlt werden. 
+
+
+
+

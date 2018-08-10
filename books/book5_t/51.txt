@@ -1,0 +1,115 @@
+Berec ne: 43 +238 + 157 + 25+ 12 
+Lösung: In diesem Fall ist es 
+möglich, in Zwischenschritten 
+volle Zehner und Hunderter 
+zu erreichen. 
+43 + 238 + 157 + 25 + 12 
+Kommutativgesetz 
+-43+ 157 + 238+ 12 + 25 
+Assoziativgesetz 
+200 + 250 +25 
+
+
+
+
+Wenn wir die 1er-, 2er-, 3er- und 4er-Reihe untereinander aufschreiben, dann entsteht 
+ein interessantes Muster. Im gelben Feld stehen die Zahlen 2, 4, 2, im blauen die Zah- 
+len 3, 6, 9, 6, 3 und im roten Feld die Zahlen 
+1 
+2 
+3 
+4 
+2 
+4 
+6 
+9 12 
+8 121 
+Wir wollen die Zahlen im roten Feld schnell addieren: 
+Das geht durch geschicktes Zusammenfassen (Klammern): 
+(4+8) + 12+ 16+ 12 + (8 + 4) = 12 + 12 + 16 + 12 + 12=64 
+oder vertauschen der Reihenfolge der Summanden: 
+(4 + 12) + (8 + 8) + 16 + (12 + 4) 16 + 16+ 16 + 16 = 64 oder auch: 
+(8 + 12) + (8 + 12) + (16 + 4) +4 20 + 20 + 20+4=64 
+
+
+
+
+Berechne den fehlenden Summanden. Wie rechnest du? 
+a) .+ 35 = 87 
+e) 35+.- 150 
+b) 117+.=258 
+c) .+86=100 
+f) =223 
+g) 250 + 1000 
+d) 99 
+h) 56 
+= 200 
+= 236 
+
+
+
+
+Überlege zuerst, ob der Minuend oder der Subtrahend fehlt. 
+Berechne dann. Wie rechnest 
+a) 36=50 
+e) 169 • = 110 
+b) 172-.=96 
+f). 998=12 
+c) 417-.-4 
+g) 555-111 
+d) u- 201 =400 
+h) 463 = 411 
+
+
+
+
+Benenne zuerst den Teil, der in dem Rechenausdruck fehlt. Rechne ihn danach aus. 
+a) 84 100 
+e) .+ 87 = 214 
+b) 1-15=86 
+f) 
+177-.=34 
+c) 333 +65 = • 
+g) r- 24 = 213 
+d) 345-.=299 
+h) 317-88=. 
+
+
+
+
+Rechne geschickt, indem du die Summanden vertauschst. Beispiel A kann helfen. 
+a) 35 + 89+65 
+d) 17 +21 + 83 
+g) 123 + 96 + 77 
+b) 16 + 37 + 54 
+e) 34 + 18+ 12 
+h) 1 +2+3+47+48+49 
+c) 
+f) 
+i) 
+29 + 23+ 11 
+11 + 22 + 99 
+1200 + 240 + 800 + 760 
+
+
+
+
+Rechne geschickt. Verwende 
+Klammern, um deutlich zu 
+machen, was du zuerst rechnest. 
+a) 64+13+26+7 
+b) 23+118+12+77 
+c) 14+37+86+63 
+d) 123 +49 + 11 
+Assoziativgesetz: 
+Vertauscht man die Reihenfolge, in der man 
+rechnet, so kann man anschließend Zahlen 
+„verbinden". Dies kann man durch eine Klam- 
+mer deutlich machen. Was in einer Klammer 
+steht, muss zuerst gerechnet werden. 
+3+18+7=18+3+7 
++ 7) 10=28 
+
+
+
+

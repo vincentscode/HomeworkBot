@@ -1,0 +1,91 @@
+Auf einem großen U-Bahnhof verkehren die Linien A, B, C und D. Morgens um 5 Uhr 
+nimmt die U-Bahn ihren Betrieb auf. Alle vier Linien starten zur gleichen Zeit. Laut Fahr- 
+plan verkehren die Linien in regelmäßigen Abständen, man sagt dazu: Die Züge verkeh- 
+ren in einem bestimmten Takt. 
+Linie A 
+5:00 
+6-Minuten- 
+Takt 
+Linie B 
+5:00 
+12-Minu 
+ten-Takt 
+Linie C 
+5:00 
+8-Minuten- 
+Takt 
+Linie D 
+5:00 
+10- Minu- 
+ten-Takt 
+Besonders viele Fahrgäste kann man erwarten, wenn mehrere Züge gleichzeitig abfahren. 
+a) Zu welchen Zeiten fahren alle vier Linien gleichzeitig ab? 
+b) Nach wie viel Minuten fahren die Linien A und C das erste Mal wieder fahrplanmäßig 
+gemeinsam ab? Wann fahren die Linien A, B und C gemeinsam ab? 
+Gemeinsame Vielfache — gemeinsame Teiler - kgV — ggT 
+Gemeinsame Vielfache von 6 und 8 
+Vielfache von 8 
+Vielfache von 6 
+8 16 24 32 40 
+6 12 18 24 30 36 42 48 54 
+48 
+56 
+98 54 
+72666 
+36 60 
+24, 48, 72, 
+64 76 
+32 66 
+gemeinsame Vielfache von 6 und 8: 
+kleinstes gemeinsames Vielfaches von 6 und 8: 
+Gemeinsame Teiler von 45 und 75 
+Teilervon45 1359 15 
+Teilervon 75 135 15 
+25 
+gemeinsame Teiler von 45 und 75: 
+45 
+75 
+größter gemeinsamer Teiler von 45 und 75: 
+= 24 
+9 
+16 
+75 
+25 
+1, 3, 5, 15 
+= 15 
+
+
+
+
+a) kgV (2;4) 
+e) ggT (21; 30) 
+i) kgv (6; 9) 
+m)kgv (50; 30) 
+b) ggT (4; 6) 
+f) ggT(49; 28) 
+j) kgv (54; 12) 
+n) ggT (36; 45) 
+c) ggT (5; 15) 
+g) kgv (4; 5) 
+k) kgv (11; 14) 
+o) kgv (72; 48) 
+d) ggT (12; 7) 
+h) kgv (42; 7) 
+l) 
+ggT (6; 50) 
+p) ggT (66; 49) 
+
+
+
+
+Veras Vater möchte eine Metall- 
+schiene an der Kellerwand be- 
+festigen, die alle 12 cm ein Loch 
+hat. Von der Vormieterin sind noch 
+Dübel mit je 20 cm Abstand in der 
+Wand. Welche von den Dübeln 
+kann Herr Reichel benutzen? 
+
+
+
+

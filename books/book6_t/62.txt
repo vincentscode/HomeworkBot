@@ -1,0 +1,29 @@
+Miss den Steigungswinkel der Zahnradbahn. 
+Lösung: 
+Der Steigungswinkel beträgt 250 
+
+
+
+
+Zeichne einen überstumpfen Winkel von 3100. 
+Lösungsmöglichkeiten: 
+a) Zeichne einen gestreckten Winkel von 
+1800 und ergänze ihn um einen Winkel 
+von 1300. 
+310 
+1300 
+b) Zeichne einen Winkel von 3600 (Voll- 
+kreis) minus 3100, also von 500. 
+310' 
+
+
+
+
+Konstruiere den Giebel eines Satteldaches mit 380 Neigungswinkel. 
+380 
+380 
+10 cm 
+
+
+
+

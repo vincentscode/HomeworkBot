@@ -1,0 +1,17 @@
+Finde Brüche, die so groß wie 2 sind. 
+Rechnerische Lösung: Der Bruch wird erweitert: 
+Grafische Lösung: Die Unterteilung wird auf verschiedene Weisen verfeinert. 
+
+
+
+
+Erkläre die Darstellung im Bild. 
+Lösung: (1 ) Von links nach rechts: Unterteilung wird gröber, die Teilstücke 
+werden viermal größer. Der Bruch wird mit 4 gekürzt. ist gleich 4. 
+(2) Von rechts nach links: Unterteilung wird feiner, die Teilstücke werden 
+kleiner. Der Bruch wird mit 4 erweitert. ist gleich -B. 
+Beobachtung: „Erweitern und Kürzen sind also zwei Seiten derselben Medaille." 
+
+
+
+

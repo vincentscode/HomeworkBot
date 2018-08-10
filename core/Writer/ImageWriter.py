@@ -16,7 +16,7 @@ def char2img(c):
                '<', '*']
     special_dict = {'.': 'dot', ':': 'double_dot', '>': 'greater', '?': 'question_mark', '\'': 'quotes',
                     '/': 'slash', '<': 'smaller', '*': 'star'}
-    
+
     small_dir = current_dir + '/labeled/letters_small/'
     big_dir = current_dir + '/labeled/letters_big/'
     digits_dir = current_dir + '/labeled/digits/'
@@ -63,5 +63,5 @@ def string2img(s):
     return ret
 
 
-cv2.imshow('win', string2img('Some String lol'))
+cv2.imshow('win', string2img('Mir ist langeweilig'))
 cv2.waitKey(0)

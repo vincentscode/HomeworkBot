@@ -1,0 +1,30 @@
+Auf dem Stadtplan kann man sich zurecht- 
+finden. Das Rathaus findet man leicht, wenn 
+man das Planquadrat angibt, in dem es liegt. 
+Findest du das Rathaus? Wo befindet sich die 
+Kirche? 
+Lösung: 
+Das Rathaus liegt im Planquadrat 84. 
+Die Kirche liegt im Planquadrat Cl 
+
+
+
+
+Die Sc u erinnen un Sc uer er K asse 5a 
+zeichnen aus den vier vorgegebenen Punkten 
+A (1 11), B (911), C (717) und D (317) ein Vier- 
+eck. Dazu werden von einem Ursprung aus 
+eine x-Achse und eine y-Achse gezeichnet. 
+Dann tragen sie die Punkte ein und verbinden 
+sie in alphabetischer Reihenfolge und den 
+letzten Punkt wieder mit A. 
+Es entsteht ein Trapez. 
+"iiöiiii%iiii 
+8 
+7 
+5 
+8 9 1011 
+
+
+
+

@@ -1,0 +1,34 @@
+Mithilfe von Knetkugeln und Strohhalmen werden die Kantenmodelle von Körpern 
+hergestellt. Übertrage dazu die Tabelle in dein Heft und fülle sie aus. 
+Körper 
+Anzahl der 
+Ecken 
+Kanten 
+Kanten an einer Ecke 
+kanten gleicher 
+Länge 
+Würfel 
+8 
+Quader 
+12 
+quadratische 
+Pyramide 
+Boden 3 
+Spitze 4 
+Dreiecksprisma 
+(Satteldach) 
+3 
+2 
+4 
+
+
+
+
+Lauras Vater ist Installateur. Er will für die Schule ein anschauliches Kantenmodell 
+eines Würfels aus festen Drahtstücken zusammenschweißen. Der Würfel soll eine Sei- 
+tenlänge von 24 cm haben. Wie viel Draht benötigt er dafür? Wie viel cm Draht braucht 
+er mehr, wenn die Kantenlänge 6 cm länger sein soll? 
+
+
+
+

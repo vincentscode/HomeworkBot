@@ -1,0 +1,56 @@
+Wir basteln eine Rechenmaschine. Als Material benötigen wir nur zwei Zollstöcke. 
+Zur Not tun es auch zwei längere Lineale. Mit dem Zollstock kann man messen - aber 
+rechnen? 
+6 
+1 
+1234567 
+2 
+8 
+3 
+9 
+10 11 
+= 15 
+67 8 9 1011 12 
+12 13 14 15 16 17 18 
+a) Addiere 6 und 11 mit der Rechenmaschine. 
+b) Berechne 1 7 — 9 mithilfe von zwei Zollstöcken. Wie muss man die zwei Zollstöcke 
+legen? Fertige eine Zeichnung in deinem Heft an. 
+c) Erfinde selbst Aufgaben, die du mit zwei Zollstöcken oder Linealen lösen kannst. 
+Wie groß dürfen die Zahlen höchstens sein, damit du mit deinen Geräten noch zur 
+Lösung kommst? 
+Addieren und Subtrahieren lassen sich anschaulich am Zahlenstrahl darstellen. 
+Beim Addieren mehrerer Zahlen kann man sich manchmal Rechenvorteile verschaffen, 
+z. B. durch geschicktes Anordnen der Zahlen. 
+Addieren 
+Subtrahieren 
+o 
+234567 
+7 
+laufe nach rechts 
+8 
+9 
+1 
+p 34567R 
+6 
+8 
+2 
+laufe nach links 
+Man nennt 8 6 Differenz. 
+Minuend 
+Subtrahend 
+9 
+Man nennt 2 +5 Summe. 
+1. Summand 
+2. Summand 
+Rechengesetze: Beim Addieren darf man 
+die Reihenfolge der Summanden vertauschen (Kommutativgesetz) 
+die Reihenfolge, in der man addiert, selbst festlegen (Assoziativgesetz 
+Die Rechengesetze helfen beim geschickten Addieren: 
+73 + 49 +27 49 und 73 vertauschen 
+= 49 + 73 +27 zuerst 73 + 27 rechnen 
+= 49+ 100 
+= 149 
+
+
+
+

@@ -1,0 +1,102 @@
+Suc e unter en ersten 20 Za 
+Findest du die acht Zahlen? 
+Primzahlen 
+en 
+le Za 
+en, 
+le genau zwei Tel er a en. 
+Natürliche Zahlen, die genau zwei Teiler haben, nennt man Primzahlen. 
+Die ersten Primzahlen sind: 2 3 5 7 11 13 17 
+Die 1 ist eine „Ausnahmezahl". Da sie nur einen Teiler hat, zählt man sie nicht 
+zu den Primzahlen. 
+
+
+
+
+a) Wie viele Primzahlen gibt es zwischen 20 und 50, wie viele von 50 bis 70? 
+b) Welche der Zahlen sind Primzahlen? 303 83 695 288 113 495 111 
+18 Das Sieb des ERATOSTHENES 
+Du möchtest die Primzahlen von 1 bis 100 herausfinden. Dies ist kein Problem, wenn 
+du nach folgendem Verfahren die Primzahlen „heraussiebst"• 
+- Schreibe die Zahlen von 1 bis 100 in eine 10 
+10 Tabelle auf. 
+— Streiche die Zahl 1. 
+- Streiche die Vielfachen von 2 außer der 2 selbst. 
+— Die 3 ist noch nicht gestrichen. Streiche die 
+Vielfachen der 3 außer der 3 selbst. 
+— Die nächste noch nicht gestrichene Zahl ist die 5. 
+Streiche alle Vielfachen von 5 außer der 5 selbst. 
+— Alle Zahlen, die zum Schluss nicht gestrichen 
+sind, sind Primzahlen. 
+Geschichte der Primzahlen 
+2 
+111 
+21 
+31 
+41 
+51 
+61 
+71 
+81 
+91 
+3 
+13 1 
+23 
+33 
+43 
+53 
+63 
+73 
+83 
+93 
+5 
+15 1 
+25 
+35 
+45 
+55 
+65 
+75 
+85 
+95 
+7 
+17 1 
+27 
+37 
+47 
+67 
+77 
+87 
+97 
+19 
+29 
+39 
+49 
+59 
+69 
+79 
+89 
+99 1 
+Die Suche nach Primzahlen, die schon die antiken Griechen betrieben, hat bis heute 
+ihre Faszination nicht verloren. Der Grieche ERATOSTHENES, nach dem das Verfah- 
+ren aus Übung 21 benannt ist, lebte im 3. Jh. v. Chr. 
+Gibt es eine 
+EUKLID aus Alexandria hat schon vor mehr als 2300 Jahren 
+größte Primzahl? bewiesen, dass es unendlich viele Primzahlen gibt. 
+Große 
+Primzahlen 
+Jagd nach 
+Primzahlen 
+Es gibt also keine größte Primzahl. Für Mathematiker ist es 
+dennoch ein Sport, die größte bekannte Primzahl zu übertreffen. 
+Ein Mönch namens MERSENNE entwarf eine Formel, mit der man 
+noch heute auf die Jagd nach noch größeren Primzahlen geht: 
+„Subtrahiere 1 von einer Zweierpotenz, deren Exponent eine 
+Primzahl ist." Das Ergebnis ist fast immer eine Primzahl. 
+2013 wurde bewiesen, dass 257885161 — 1 eine Primzahl ist. 
+Sie hat 17 425170 Stellen. 
+Durch die Computer ist die Jagd zur Leidenschaft geworden. 
+
+
+
+

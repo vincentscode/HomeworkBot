@@ -1,0 +1,60 @@
+a) Jan behauptet, dass der größte gemeinsame Teiler zweier verschiedener Primzahlen 
+I ist. Hat er Recht? 
+b) Was gilt für das kgV zweier verschiedener Primzahlen? 
+
+
+
+
+a) bertrage die Tabelle in dein Heft und 
+erganze. 
+b) Berechne in jeder Zeile das Produkt aus 
+a und b und das Produkt von ggT und 
+kgV. Was fällt dir auf? 
+c) Überprüfe deine Vermutung aus b) mit 
+den Zahlen 60 und 78. Sollte dir nichts 
+aufgefallen sein, so hilft dir der Hinweis 
+auf dem Rand. 
+2 
+4 
+6 
+6 
+8 
+3 
+6 
+8 
+9 
+12 
+6 
+2 
+
+
+
+
+Wir beschäftigen uns mit einem berühm- 
+„Nach meiner Erkenntnis lässt sich 
+ten mathematischen Problem. 
+jede gerade Zahl ab der 6 als Summe 
+CHRISTIAN GOLDBACH schrieb im Jahre 
+von zwei Primzahlen Schreiben." 
+1 742 einen Brief an den berühmten 
+Mathematiker LEONHARD EULER, der zur 
+damaligen Zeit Professor an der Akademie in Petersburg in Russland war. In sei- 
+nem Brief schrieb GOLDBACH von seiner Vermutung über Primzahlen. 
+Bis heute ist die Vermutung trotz zahlreicher Versuche 
+nicht bewiesen. 
+Versuche, die nächsten geraden Zahlen als Summe zwei- 
+er Primzahlen darzustellen. 
+Für Spezialisten: Stelle die geraden Zahlen zwischen 100 
+und 1 20 als Summe zweier Primzahlen dar. 
+5+3 
+7+3 
+7+5 
+14 = I I + 3 = 7 7 
+16=13+3 
+18=13+5 
+Brief von GOLDBACH an EULER 
+LEONHARD EULER (1 707-1783) 
+
+
+
+

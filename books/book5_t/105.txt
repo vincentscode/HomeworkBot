@@ -1,0 +1,64 @@
+a) Welche der Zahlen sind durch 4, welche sogar durch 8 teilbar? 
+4224 
+668 
+792 
+900 
+3454 
+Welche der Zahlen sind durch 6 teilbar? 
+b) Ergänze eine Ziffer, so dass die Zahl 
+durch 9 teilbar ist. 
+3172 
+.99, 25., 7.1, .36, 4.1 
+Wie kannst du ergänzen, damit die Zahl durch 3, aber nicht durch 9 teilbar ist? 
+Teilbarkeitsregeln 
+Es gibt Regeln, mit denen du Zahlen auf Teilbarkeit prüfen kannst. Dabei 
+unterschei-dest du zwischen Endstellenregeln und Quersummenregeln. 
+Endstellenregeln 
+Eine Zahl ist 
+— durch 2 teilbar, wenn die letzte Ziffer gerade ist (O, 2, 4, 6 oder 8). 
+— durch 4 teilbar, wenn die beiden letzten Ziffern eine durch 4 teilbare Zahl bilden. 
+— durch 5 teilbar, wenn die letzte Ziffer eine O oder 5 ist. 
+— durch 8 teilbar, wenn die letzten drei Ziffern eine durch 8 teilbare Zahl bilden. 
+— durch 10 teilbar, wenn die letzte Ziffer eine O ist. 
+Quersummenregeln 
+Eine Zahl ist 
+— durch 3 teilbar, wenn die Quersumme durch 3 teilbar ist. 
+— durch 9 teilbar, wenn die Quersumme durch 9 teilbar ist. 
+Zusammengesetzte Regel 
+Eine Zahl ist durch 6 teilbar, wenn sie durch 2 und durch 3 teilbar ist. 
+
+
+
+
+a) Finde alle Zahlen zwischen 1 und 100, die genau drei Teiler haben. Die kleinste die 
+ser Zahlen ist 4, denn ihre Teiler sind 1 , 2 und 4. Fällt dir an den Zahlen etwas auf? 
+b) Finde alle Zahlen zwischen 100 und 400, die drei Teiler haben. Die Ergebnisse aus a) 
+können dir helfen. 
+
+
+
+
+Erik hat zwei Ziffern seiner Fahrradschlossnummer vergessen. 
+Sie war aber durch 8 teilbar. Wie viele Zahlen muss er probieren? 
+
+
+
+
+Anna benötigt zum Basteln von Geschenkanhängern gleich lange Schleifenbänder. 
+Ihre Mutter gibt ihr Schleifenbänder zu 18 cm, 24 cm und 36 cm Länge. Beim Zerteilen 
+sollen keine Reste übrig bleiben. Wie lang können die Bänder werden, wenn sie mög- 
+lichst lang, aber auch gleich lang sein sollen? 
+
+
+
+
+Tim, Rico und Jenny starten auf der Rennbahn drei Autos gleichzeitig. Tims Wagen fährt 
+eine Runde in 14 Sekunden, Ricos in 28 Sekunden und 
+Jennys in 20 Sekunden. 
+a) Nach welcher Zeit überfahren alle drei Autos wieder 
+gemeinsam die Start-Ziel-Linie? 
+b) Wie viele Runden hat jedes Auto dann zurückgelegt? 
+
+
+
+

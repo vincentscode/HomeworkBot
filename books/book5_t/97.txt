@@ -1,0 +1,77 @@
+Erkenne die Rechenregel und rechne soweit zurück, wie es geht. 
+a) 
+29, 34, 39, 44, 49, 
+c) 
+, 117, 135, 153, 171, 189, . 
+b) ..., 68, 136, 272, 544, 1088, 
+d) 
+..., 110, 121, 133, 146, 160, 
+
+
+
+
+Wie lautet die 19. Zahl der Folge? 
+
+
+
+
+Bernd geht mit seinem Kollegen Hans ins Lager 
+und zählt die Wäschetrockner: „2, 5, 8, 
+„Du zählst doch viel zu kompliziert", unter- 
+bricht ihn Hans. Wie könnte Hans gerechnet 
+haben, um die Zahl der vorrätigen Wäsche- 
+trockner schnell zu bestimmen? 
+
+
+
+
+Eine neue Kerze wird angezündet und brennt gleichmäßig nieder 
+a) Wie lange kann die Kerze insgesamt brennen? 
+b) Wie hoch müsste die Kerze zu Beginn sein, 
+wenn sie 24 Stunden lang brennen soll? 
+nndauer in 
+Igesthöhe in 
+4 
+24 
+21 
+18 
+
+
+
+
+Kennt man die Regel, nach der die Zahlen einer Zahlenfolge berechnet werden, kann 
+man häufig schnell „weit entfernte" Zahlen der Folge berechnen. Finde die Regel und 
+berechne jeweils die 50. und 100. Zahl. 
+a) 2, 5,8, 11, 
+d) 42, 55, 68, 81 
+Tipp 
+1. Zahl 
+7+1-3 
+b) 8, 13, 18, 23, 
+e) 7, 14, 21, 28,... 
+c) 9, 20, 31, 42,... 
+f) 15, 24, 33, 42, 
+2. Zahl 
+7+2-3 
+3. Zahl 
+7+3-3 
+4. Zahl 
+50. Zahl 
+154 
+7+49-3 
+7 99 • 
+100. Zahl 
+304 
+3 
+
+
+
+
+Betrachte die Musterfolgen. Wie viele Würfel bilden jeweils das 10. Muster? 
+c) 
+b) 
+d) 
+
+
+
+

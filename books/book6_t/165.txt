@@ -1,0 +1,27 @@
+Das Dreieck ABC mit A (311), B (711) und C (714) soll um 720 gedreht werden. Das 
+Drehzentrum Z ist der Ursprung (010). 
+Lösung: 
+4 56 
+720 
+456 
+. Punkte mit Drehzentrum Z verbinden — erster Schenkel des Drehwinkels. 
+2. Den Drehwinkel von 720 abtragen — zweiter Schenkel des Drehwinkels. 
+3. Mit dem Zirkel die Bildpunkte abtragen. 
+4. Bildpunkte zur Bildfigur verbinden. 
+5. Koordinaten näherungsweise ablesen: A' (013,2) , B' (1 ,217) und C' (-1 7 ,9). 
+
+
+
+
+Mithilfe der Drehung kann man drehsymmetrische Fi- 
+guren zeichnen. Als Drehwinkel kommen alle Teiler von 
+360 in Frage. In diesem Beispiel wurde die Grundfigur 
+um 720 gedreht, die Bildfigur wieder um 720 usw. Die 
+Hilfslinien, die man zum Abtragen der Winkel benötigt, 
+zeichnet man am besten mit ganz dünnen Bleistiftlinien. 
+Man kann sie dann hinterher wieder ausradieren. 
+72 
+
+
+
+

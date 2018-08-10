@@ -1,0 +1,48 @@
+Berec ne mog IC st gesc IC 18 - 8. 
+Lösung: 
+Sollst du zwei Zahlen miteinander multiplizieren, so kannst du eine Zahl zerlegen, das 
+heißt, als Summe oder Differenz von zwei Zahlen schreiben. 
+18 • (20-2) • 8 
+= 20. 8-2-8 
+- 160 16 
+- 144 
+18 als Differenz von 20 und 2 schreiben 
+ausmultiplizieren 
+Punkt- vor Strichrechnung 
+
+
+
+
+Berec ne möglichst geschickt 3 • 83 +7 • 83. 
+Lösung: 
+Werden mehrere Produkte addiert, die einen gleichen Faktor haben, so kann man den 
+Faktor ausklammern. Das erleichtert manchmal die Rechnung. 
+3 • 83+7 • 83 = (3+7) • 83 83 ausklammern 
+= 10. 83 
+= 830 
+
+
+
+
+Berechne den Rechenausdruck (7 + 23) • 5+12. Beachte die Vorfahrtsregeln. 
+Lösung: 
+Rechenbaum 
+7 
+5 
+162 
+12 
+Rechnung 
+(7 + 23) • 5 + 1 2 Klammern zuerst 
+23 
+30 
+150 
+=30-5+12 
+= 150+12 
+= 162 
+Punkt- vor Strichrechnung 
+Man kann den Rechenausdruck auch als Text formulieren: 
+Addiere 7 und 23, multipliziere die Summe mit 5 und addiere zu dem Produkt 12. 
+
+
+
+

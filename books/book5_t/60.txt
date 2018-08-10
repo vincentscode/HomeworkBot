@@ -1,0 +1,65 @@
+Die Summe aller Zahlen in den Spalten, Zeilen und Diagonalen nennt man die 
+magische Zahl des Zauberquadrats. Berechne die magische Zahl des Zahlenquadrats 
+auf dem Gemälde von ALBRECHT DÜRER. 
+
+
+
+
+Du kannst leicht berechnen, dass die Summe aller Zahlen von 1 bis 9 
+3 
+die Zahl 45 ergibt. Warum muss die magische Zahl des Zauberquadrates 
+4 
+dann 15 sein? 
+5 
+9 
+7 
+2 
+
+
+
+
+9 entsteht. 
+b) 
+8 
+Ergänze das Quadrat in deinem Heft so, dass ein Zauberquadrat aus den Zahlen 1 bis 
+c) 
+3 
+
+
+
+
+Addiere zu jeder Zahl des Zauberquadrates in Beispiel B die Zahl 3. Ist das neue Qua- 
+drat wieder ein Zauberquadrat? Kannst du noch andere Regeln angeben, wie man neue 
+Zauberquadrate aus alten Zauberquadraten erhält? 
+
+
+
+
+Ist das Zahlenquadrat überhaupt ein 
+22 18 
+Zauberquadrat? 
+Übersetze die Zahlen ins Englische, 
+8 25 
+schreibe sie in einer Tabelle in dein 
+Heft. Zähle jeweils die Anzahl der 
+Buchstaben und trage sie ins Zahlen- 
+quadrat ein. Ist es ein Zauberquadrat? 
+five 
+twelve 
+twenty- 
+two 
+eight- 
+een 
+4 
+6 
+9 
+8 
+5 
+28 
+12 
+15 
+2 
+
+
+
+

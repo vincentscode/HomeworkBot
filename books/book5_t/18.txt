@@ -1,0 +1,101 @@
+Die meisten Diagrammtypen in diesem Kapitel 
+kennst du aus der Zeitung. Hier lernst du ein ganz 
+neues Diagramm kennen: 
+In einer Basketballmannschaft kamen während 
+einer Saison insgesamt 16 Spieler zum Einsatz. 
+In der Tabelle findest du die höchste Punktzahl, 
+die jeder dieser Spieler in einem Spiel erzielt hat. 
+Der Trainer möchte die Daten so darstellen, dass 
+er schnell die höchste Punktzahl und die nied- 
+rigste Punktzahl ablesen kann. Zudem möchte er 
+sehen, welche Punktzahlen häufig vorkamen. 
+Exkurs 
+Alex 
+Aynur 
+Daniel 
+Hauke 
+Jan 
+kim 
+Max 
+Michael 
+Nadim 
+Nils 
+5 
+9 
+20 
+14 
+18 
+31 
+6 
+50 
+18 
+11 
+asca 
+Robert 
+Stefan 
+Sven 
+Till 
+Tobias 
+32 
+10 
+46 
+17 
+21 
+Wir stellen Daten in einem Stängel-Blatt-Diagramm dar. 
+Wir benutzen in unserem Diagramm 
+die Zehner als „Stängel". Dann fügen wir 
+„Blätter" hinzu, in die wir die Einer schreiben. 
+In dem Diagramm sind bereits Michaels 
+und Alex' Ergebnisse eingetragen. 
+Das vollständige Stängel-Blatt-Diagramm 
+Es gibt drei Ergebnisse bei den Zwanzigern: 
+20, 21, 25. 
+Das notieren wir so: 210 1 5 
+Die Zahlen sind in jedem Blatt der Größe 
+nach geordnet. Im „Zehner-Blatt" sind die 
+Zahlen 10, 11, 14, 17, 18, 18 
+a) Welches war das beste (viertbeste) Wurfergebnis? 
+b) Gibt es einen Spieler, der nie mehr als vier Punkte erreicht hat? 
+c) In welchem Zehnerbereich liegen die meisten der Punktzahlen? 
+4 
+3 
+2 
+o 
+5 
+4 
+3 
+2 
+o 
+5 
+Blätter 
+6 
+12 
+015 
+1 014788 
+569 
+
+
+
+
+Zeichne ein Stängel-Blatt-Diagramm für die Wurfweiten, die in Annas 
+Klasse erzielt wurden. Wurfweiten in Meter: 15, 17, 25, 27, 29, 30, 32, 32, 34, 35, 
+35, 38, 39, 40, 40, 41, 41 , 45, 47, 47, 48, 50, 51 , 52, 55, 55, 56, 61 
+
+
+
+
+Am Ende der Bundesligasaison haben die 
+Mannschaften die folgenden Anzahlen von 
+Toren geschossen: 86, 81 , 58, 65, 56, 52, 69, 
+47, 55, 33, 46, 40, 39, 43, 42, 51 , 40, 36 
+a) Zeichne ein Stängel-Blatt-Diagramm für 
+die Anzahl der Tore. 
+b) Eileens Lieblingsmannschaft hat 42 Tore 
+geschossen. Ist das „torgefährlich"? 
+Begründe deine Antwort an dem Diagramm. 
+c) Wie liegt deine Lieblingsmannschaft in der aktuellen Bundesligasaison? Zeichne dazu 
+ein Stängel-Blatt-Diagramm für den derzeitigen Punktestand in der Bundesliga. 
+
+
+
+

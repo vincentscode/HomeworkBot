@@ -1,0 +1,28 @@
+12 
+4 ist Teiler von 12, denn 12 
+12 ist Vielfaches von 4, denn 12 
+12 
+5 ist kein Teiler von 12, 
+denn 12 : 
+12 ist kein Vielfaches von 5, 
+denn 12=2. 5+2 
+
+
+
+
+3 ist ein Teiler von 24, denn 24 : 3=8 
+8 ist ein Teiler von 24, denn 24 : 8=3 
+Beide Teiler sind erfasst durch 24 = 3 • 8. 
+Also genügen die nebenstehenden Produkte. 
+Gesucht werden alle Teiler von 24. Um alle Teiler zu finden, 
+müsste man alle Produkte aufschreiben. Es geht einfacher. 
+= 2-12 
+24 
+1 • 24 
+= 3-8 
+=4•6 
+4, 6, 8, 12, 24} 
+
+
+
+

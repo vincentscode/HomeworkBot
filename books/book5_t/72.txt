@@ -1,0 +1,63 @@
+en im Bild kann man durch Abzählen 
+r geht es mit einem Rechenausdruck: 
+en ist 5 12 • 3. Der Rechenausdruck 
+e Rechenzeichen. Zum Ausrechnen 
+ches Rechenzeichen „Vorfahrt" hat. Die 
+- vor Strichrechnung" kennst du sicher 
++ 12 • 5 + 36 = 41. Ebenso gibt man 
+ten Rechnungen „Vorfahrt". 
+
+
+
+
+Beim Kopfrechnen ist es wichtig, so vorteilhaft wie möglich zu rechnen. Beim Multipli- 
+zieren zerlegt man dazu häufig Zahlen oder man fasst sie zusammen. 
+000 0000 0 0 0 0 0 0 
+0 00 0 0 0 0 0 00 00 0 
+000 0 000 
+Rechnung durch Zerlegen: 
+13. (10+3). 4 
+- 40+12 
+- 52 
+00000000 00 
+o Q OOOQQO 00 
+0 0 00 
+Rechnung durch Zusammenfassen: 
+8•4+2-4 = (8+2) . 4 
+-10-4 
+= 40 
+Was ist jeweils besser, Zerlegen oder Zusammenfassen? Begründe erst und rechne dann. 
+a) (20+7) • 6 
+b) (91 + 9) • 7 
+c) (24 + 6).5 
+d) (30 + 3) • 4 
+
+
+
+
+In Deutschland sind alle Arzneimittel unter der Pharmazentralnummer (PZN) registriert. 
+Diese Nummer ist siebenstellig. Die ersten 6 Ziffern verschlüsseln Informationen über 
+Packungsgröße und Wirkstoffstärke. Die letzte Ziffer ist eine Prüfziffer. 
+Berechnung der Prüfziffer : 
+PZN -149523 9 
+1. Die Ziffern mit 2, 3, 4, 5, 6 und 7 multiplizieren und die Produkte addieren 
+1-2+4-3+9-4+5-5+2-6+3. 
+7 
+36 + 12+21 = 108 
+2. Die Summe durch 1 1 teilen; der Rest ist die Prüfziffer 
+108 : 1 1 = 9+9 : 11; Der Rest ist 9, die Prüfziffer ist also 9. 
+a) Berechne die Prüfziffern fur die folgenden PZN: 
+(1) Hustenbonbon: PZN -339681 
+(2) Inhalationslösung: PZN -166463• 
+b) Suche zu Hause nach Medikamentenpackungen und rechne die 
+PZN - 1495239 
+Prüfziffern nach. 
+c) Die Rechnung oben lässt sich auch in einem Rechenausdruck aufschreiben: 
+(1 11 
+= (2 + 12 36 25 12 21) 
+: 11 = 108 : 
+Kannst du begründen, wozu man die Klammer braucht? 
+
+
+
+

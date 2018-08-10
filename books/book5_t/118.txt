@@ -1,0 +1,83 @@
+Bestimme alle Teiler der Zahlen 47, 50, 99, 128 und 198. 
+Eine Zahl fällt auf. Welche könnte gemeint sein? 
+
+
+
+
+Gib V 2, V 4 und V 8 an. Was fällt dir auf? 
+
+
+
+
+a) Antonia behauptet, dass 364 ein Vielfaches von 13 ist. 
+Stimmt ihre Behauptung? 
+b) Benjamin stellt fest, dass 1001 das Produkt von drei aufein- 
+anderfolgenden Primzahlen ist. Welche sind das? Gib die 
+Teilermenge von 1001 an. 
+
+
+
+
+Ergänze „Teiler", „Vielfaches", „teilt" oder „teilt nicht". 
+a) 62 
+c) 7 . 105 
+b) 6 ist ein von 84. 
+d) 84 ist ein von 14. 
+
+
+
+
+Überprüfe mit 5 Beispielen die folgende Teilbarkeitsregel: 
+Teilbarkeitsregel zur 9: Eine Zahl ist durch 9 teilbar, wenn ihre 
+Quersumme, das heißt die Summe ihrer Ziffern durch 9 teilbar ist, 
+sonst nicht. 
+
+
+
+
+Finde mit den Teilbarkeitsregeln die Teiler zwischen 1 und 10 der 
+folgenden Zahlen: 
+a) 444 
+b) 3474 
+c) 3480 
+d) 123450 
+
+
+
+
+a) Ermittle: 
+b) Ermittle: 
+ggT (1 8, 24) 
+kgv (24,32) 
+(24, 
+kgV(5, 7) 
+kgV(12, 28) 
+
+
+
+
+Stelle die folgenden Zahlen als Produkt von Primzahlen dar. Da- 
+bei dürfen Primzahlen mehrfach auftreten. 
+a) 63 
+b) 76 
+c) 108 
+d) 101 
+e) 504 
+
+
+
+
+Zwei Zahnräder, von denen das eine 
+36 Zähne und das andere 30 Zähne 
+hat, greifen ineinander Die Zähne, 
+die sich gerade berühren, sind in der 
+Abbildung markiert. Nach wie viel 
+Umdrehungen der Räder treffen die- 
+se gekennzeichneten Stellen wieder 
+zusammen? 
+O 
+o 
+
+
+
+

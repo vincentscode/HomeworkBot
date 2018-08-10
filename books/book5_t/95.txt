@@ -1,0 +1,38 @@
+Auch das ist ein Muster: Ohne zu zeichnen 
+kannst du berechnen, wie es weitergeht. 
+Die 3. Zahl ist 
+Die 4. Zahl ist 
+Die 5. Zahl ist 
+5+2. 4=13 
+5+4. 4=21 
+Wir machen einen Sprung: 
+Die 10. Zahl ist 
+5+9. 4—41 
++4 
++4 
+
+
+
+
+Am Baummuster erkennst du die Folge 
+. Die Zahlen der Folge berechnest 
+1-3 
+1. 3 88 
+1, 3,9. 
+du so: 
+1 . Zahl 
+2. Zahl 
+3. Zahl 
+4. Zahl 
+10. Zahl 
+19683 
+3 
+1-38 
+3 
+-3 
+9 
+.3 
+
+
+
+
